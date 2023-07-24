@@ -1,3 +1,6 @@
 Olá eu sou pedro
 Inserção de log
+Aula 2 de 
 
+
+Defina os itens que serão logados no processo 
